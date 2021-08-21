@@ -16,7 +16,6 @@ body {
     z-index: 0;
     margin-left: -5px;
     line-height: 300px;
-    font-family: 'Dancing Script', cursive;
     font-size: 30px;
 }
 
@@ -30,7 +29,6 @@ body {
     top: -204px;
     z-index: 1;
     line-height: 150px;
-    font-family: 'Dancing Script', cursive;
     font-size: 18px;
     color: white;
 }
